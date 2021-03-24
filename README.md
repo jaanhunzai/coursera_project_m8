@@ -12,7 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-The repository contain Data science projects, learning material together with python code 
+The repository contains Data science projects, learning material together with python code as jupyter notebooks
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
